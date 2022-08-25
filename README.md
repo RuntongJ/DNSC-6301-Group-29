@@ -15,6 +15,12 @@
 
 ### Training Data
 
+* **Source of training data**: GWU Blackboard, email `jphall@gwu.edu` for more information
+* **How training data was divided into training and validation data**: 50% training, 25% validation, 25% test
+* **Number of rows in training and validation data**:
+  * Training rows: 15,000
+  * Validation rows: 7,500
+
 * Data dictionary: 
 
 | Name | Modeling Role | Measurement Level| Description|
@@ -31,11 +37,6 @@
 | **PAY_AMT1 - PAY_AMT6** | inputs | float | amount of previous payment; PAY_AMT1 = amount paid in September, 2005; PAY_AMT2 = amount paid in August, 2005; ...; PAY_AMT6 = amount paid in April, 2005 |
 | **DELINQ_NEXT**| target | int | whether a customer's next payment is delinquent (late), 1 = late; 0 = on-time |
 
-* **Source of training data**: GWU Blackboard, email `jphall@gwu.edu` for more information
-* **How training data was divided into training and validation data**: 50% training, 25% validation, 25% test
-* **Number of rows in training and validation data**:
-  * Training rows: 15,000
-  * Validation rows: 7,500
 
 ### Test Data
 * **Source of test data**: GWU Blackboard, email `jphall@gwu.edu` for more information
