@@ -2,7 +2,7 @@
 
 ### Basic Information
 
-* **Person or organization developing model**: Runtong Jiang, `runtong1@gwu.edu`, Abdulrahman Alsadun , `abdulrahman.alsadun@gwu.edu` 
+* **Person or organization developing model**: Runtong Jiang, `runtong1@gwu.edu`, Abdulrahman Alsadun , `abdulrahman.alsadun@gwu.edu` , Emmanuel Asong, `emmanuelasong@gwu.edu`
 * **Model date**: August, 2022
 * **Model version**: 1.0
 * **License**: MIT
