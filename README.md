@@ -21,7 +21,7 @@
   * Training rows: 15,000
   * Validation rows: 7,500
 
-* Data dictionary: 
+* **Data dictionary**: 
 
 | Name | Modeling Role | Measurement Level| Description|
 | ---- | ------------- | ---------------- | ---------- |
