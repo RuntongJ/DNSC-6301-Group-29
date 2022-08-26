@@ -66,3 +66,6 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 #### Correlation Heatmap
 ![Correlation Heatmap](https://user-images.githubusercontent.com/111534710/186795237-aab0ce0e-a945-49ac-9369-03883de1a08d.png)
 
+#### tree depth vs. training and validation AUC
+![Training   Validation AUC](https://user-images.githubusercontent.com/111534710/186795541-95c9ce93-e971-40a1-8b70-de5db3b5d601.png)
+
