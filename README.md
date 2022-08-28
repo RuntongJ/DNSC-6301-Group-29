@@ -6,7 +6,7 @@
 * **Model date**: August, 2022
 * **Model version**: 1.0
 * **License**: MIT
-* **Model implementation code**: [DNSC_6301_Group 29.ipynb](DNSC_6301_Group_29.ipynb)
+* **Model implementation code**: [DNSC_6301_Group_29.ipynb](DNSC_6301_Group_29.ipynb)
 
 ### Intended Use
 * **Primary intended uses**: This model is an *example* probability of default classifier, with an *example* use case for determining eligibility for a credit line increase.
