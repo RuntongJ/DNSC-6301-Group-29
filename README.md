@@ -126,7 +126,7 @@ There is a risk in using this model. when the model is used to take any decision
 
 Security and privacy issues may give rise to strong public interest against the firm. For example, in the decision tree, if there is a change, even a little change in classification, the whole model will be changed a lot. So, the level of safety of the model is low. If some attackers tried to change the model to get the loan, the whole model would be destroyed. And the vicious attacks are hard to be detected.
 
-* **Describe any unexpected or results**:
+* **Unexpected results**:
 
 There are no missing values in the dataset. However, in the real-world missing values will exist which requires more cleaning. Also, the variable Pay_0 (most recant payment states) has a high importance for the model.
 
