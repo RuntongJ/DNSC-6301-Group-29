@@ -74,6 +74,7 @@
 #### Correlation Heatmap
 From the this heatmap we can see the correlation of the variables for the data
 We can notice very clearly a high correlation between race and whether a customer's next payment is delinquent (late), which in fact raises serious discrimination issues.
+
 ![Correlation Heatmap](https://user-images.githubusercontent.com/111534710/186795237-aab0ce0e-a945-49ac-9369-03883de1a08d.png)
 
 #### Tree depth vs. training and validation AUC
