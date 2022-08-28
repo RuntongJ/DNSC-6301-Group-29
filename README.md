@@ -94,6 +94,27 @@ And well helps us to make sure to maximize the fairness when choosing the depth
 
 ![Training   Validation AUC + H to W AIR](https://user-images.githubusercontent.com/111534710/187084313-128486f5-4d90-4572-a4c4-dc7cc03ef90c.png)
 
+* **Area Under the Curve**:
+
+Accepted range between 0.6 to 0.8
+
+| Data | AUC |
+| ---------------------- | ----------------------- |
+|**Training**| 0.7837 |
+| **Validation** | 0.7496 |
+| **Test** | 0.7438 |
+
+* **Adverse Impact Ratio**:
+
+Accepted range between 0.6 to 0.8
+
+| Group | AIR |
+| ---------------------- | ----------------------- |
+|**hispanic-to-white**| 0.83 |
+| **black-to-white** | 0.85 |
+| **asian-to-white** | 1.00 
+| **female-to-male** | 1.02 |
+
 
 #### Ethical considerations
 
