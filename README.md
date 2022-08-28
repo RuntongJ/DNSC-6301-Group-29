@@ -116,13 +116,17 @@ Accepted range between 0.6 to 0.8
 
 #### Ethical considerations
 
+
 * **potential negative impacts for using the model**:
+
 Our model’s AUC is 0.7438, which is higher than average, but there are still 0.2562 percent of the data that are not accurate. For our model, the database is not huge, so the accuracy problem is not obvious, but in the real world, 0.2 percentage uncertain prediction can cause lots of money loss. So, the model still needs to be analyzed and perfected.
 There is a risk in using this model. when the model is used to take any decisions regarding giving credits and other financial services, certain group of people will not have equal outcomes. And that is because there is a bias against the Hispanic and Black people. Thus, it will make people become unsatisfied and avoid patronizing the service of the financial firms that use the model. It can also make government officials bring charges against the firm for bias and discrimination.
 
 * **potential uncertainties relating to the impacts of using the model**:
+
 Security and privacy issues may give rise to strong public interest against the firm. For the decision tree, if there is a change, even a little change in classification, the whole model will be changed a lot. So, the level of safety of the model is low. If some attackers tried to change the model to get the loan, the whole model would be destroyed. And the vicious attacks are hard to be detected.
 
 * **Describe any unexpected or results**:
+
 There are no missing values in the dataset. However, in the real-world missing values will exist which requires more cleaning. Also, the variable Pay_0 (most recant payment states) has a high importance for the model.
 
