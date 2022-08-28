@@ -106,8 +106,6 @@ Accepted range between 0.6 to 0.8
 
 * **Adverse Impact Ratio**:
 
-Accepted range between 0.6 to 0.8
-
 | Group | AIR |
 | ---------------------- | ----------------------- |
 |**hispanic-to-white**| 0.83 |
