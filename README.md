@@ -124,7 +124,7 @@ There is a risk in using this model. when the model is used to take any decision
 
 * **potential uncertainties relating to the impacts of using the model**:
 
-Security and privacy issues may give rise to strong public interest against the firm. For the decision tree, if there is a change, even a little change in classification, the whole model will be changed a lot. So, the level of safety of the model is low. If some attackers tried to change the model to get the loan, the whole model would be destroyed. And the vicious attacks are hard to be detected.
+Security and privacy issues may give rise to strong public interest against the firm. For example, in the decision tree, if there is a change, even a little change in classification, the whole model will be changed a lot. So, the level of safety of the model is low. If some attackers tried to change the model to get the loan, the whole model would be destroyed. And the vicious attacks are hard to be detected.
 
 * **Describe any unexpected or results**:
 
