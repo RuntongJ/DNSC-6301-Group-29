@@ -115,4 +115,11 @@ Accepted range between 0.6 to 0.8
 
 
 #### Ethical considerations
+Ethical considerations (6 pts.):
+○ Describe potential negative impacts of using your model: There is a likelihood of bias or discrimination against the Hispanic and Black peoples due to the low AIR which is below 0.8 for the minority group. ■ Math or software problems This is a math problem which is coming from the dataset.
 
+■ The real world risk is that, when the model card is used to take any decisions regarding giving credits and other financial services, it will make people to become dissatisfy and avoid patronizing the service of the financial firm that used the model card. It can can also make government officials to bring charges against the firm for bias and discrimination.in effect there will be a negetive perception about anyone who used the model card to take a decision.
+
+○ Describe potential uncertainties relating to the impacts of using your model: Legal charges and strong public interest against the firm. ■ Math or software problems. Software problem.
+
+■ Real-world risks: who, what, when or how? ○ Describe any unexpected or results For the decision tree, if there is a change, even a little change in classification, the whole model will be changed a lot. So, the level of safety of the model is low. If some attackers tried to change the model to get the loan, the whole model would be destroyed. And the vicious attacks are hard to be detected.
