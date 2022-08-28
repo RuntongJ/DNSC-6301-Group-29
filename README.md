@@ -79,8 +79,14 @@ We can notice very clearly a high correlation between race and whether a custome
 
 #### Tree depth vs. training and validation AUC
 We can see that the division between the training AUC and the validation AUC start between 4 to 6 tree depth.
+
 ![Training   Validation AUC](https://user-images.githubusercontent.com/111534710/186795541-95c9ce93-e971-40a1-8b70-de5db3b5d601.png)
 
+#### variable importances
+This is to show the importance of each variable, and we can see clearly the heavy impact of the Pay_0 (most recant payment states)
+although it is high impact that leads to high dependency on this variable, we think it make sense because if we want to now the person next payment states we look at their last one.
+
+![Varibale Importance](https://user-images.githubusercontent.com/111534710/187083601-c2ebf09b-2c4b-406f-86e5-c9656cd65138.png)
 
 
 #### Ethical considerations
